@@ -17,3 +17,15 @@ Corresponding - adj. 相应的；Finding - n. 发现；Training - n. 培训；Wi
 ②: 作为一名经验丰富的房地产经纪人，她的职责是在事态发展成为重大事件之前识别潜在问题并加以解决。通过领导她的团队建立有效的沟通和高效的流程，他们能够成为该地区表现最优秀的机构。他们的努力带来的积极影响在他们始终满意的客户中表现得尤为明显。
 
 ③: Experienced - adj. 经验丰富的，熟练的 Leading - adj. 领先的，引导的 Identify - v. 识别，辨认 Event - n. 事件，事情 Estate - n. 房地产，不动产 Emerge - v. 浮现，出现 Establish - v. 建立，创立 Effect - n. 影响，效果 Effective - adj. 有效的，生效的 Efficiency - n. 效率，效能】】
+## 4
+【【①: In order to be more efficient, it is important to examine the exact expenses of a project before deciding to expand it. By carefully weighing the options and having a thorough comprehension of the potential risks and benefits, individuals and businesses can better protect themselves against financial losses. This solution may require the creation of a new version of the project or the implementation of stricter cost-cutting measures. It is also important to consider the impact of the project on the environment, as pollution and emissions can lead to costly restrictions and legal action. Regular sessions to review and assess the project's function and progress can help to ensure its success in the long run.
+
+②: 为了更高效，我们应该在扩大项目之前仔细审查确切的费用。通过认真权衡各种选项，并对潜在的风险和收益有透彻的理解，个人和企业可以更好地保护自己免受财务损失的侵害。这种解决方案可能需要创建项目的新版本或实施更严格的成本削减措施。此外，考虑项目对环境的影响也非常重要，因为污染和排放可能导致昂贵的限制和法律行动。定期开展审查和评估项目的功能和进展可以帮助确保其长期成功。
+
+③: Efficient - adj. 高效的 Expense - n. 费用，开销 Exact - adj. 精确的，准确的 Expand - v. 扩大，扩展 Examine - v. 检查，审查 Exist - v. 存在 Function - n. 功能，作用 Option - n. 选项，选择 Comprehension - n. 理解 Protection - n. 保护 Solution - n. 解决方案 Version - n. 版本 Creation - n. 创作，创建 Pollution - n. 污染 Revolution - n. 革命 Emission - n. 排放 Restriction - n. 限制 Portion - n. 部分 Application - n. 应用 Session - n. 会议，会谈】】
+## 5
+【【①: By identifying the leading factors affecting efficiency, the experienced management team was able to establish effective solutions to improve the overall performance of the company. As a result, the organization emerged as a leader in their industry, with a significant positive effect on their bottom line. Their success was a testament to their commitment to constantly improving and staying ahead of the competition.
+
+②: 通过识别影响效率的主要因素，经验丰富的管理团队能够建立有效的解决方案，改善公司的整体表现。结果，该组织在其行业中脱颖而出，对其底线产生了重大的积极影响。他们的成功证明了他们不断改进、领先于竞争的承诺。
+
+③: Leading - adj. 领先的，引导的 Experienced - adj. 经验丰富的，熟练的 Identify - v. 识别，辨认 Event - n. 事件，事情 Emerge - v. 浮现，出现 Establish - v. 建立，创立 Estate - n. 房地产，不动产 Effect - n. 影响，效果 Effective - adj. 有效的，生效的 Efficiency - n. 效率，效能】】
